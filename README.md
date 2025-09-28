@@ -5,6 +5,7 @@ A project to forecast Walmart’s weekly sales using historical data, structured
 
 ## 🌐 Live Dashboard
 Check out the live Walmart Sales Dashboard: 
+
 [![View Dashboard](https://img.shields.io/badge/View-Dashboard-blue?style=for-the-badge)](https://luna-3012.github.io/Walmart-Sales-Forecasting/)
 
 ---
